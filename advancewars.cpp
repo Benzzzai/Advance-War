@@ -1,8 +1,7 @@
 ﻿// #include <QMainWindow>
 
-//
-class MainWindow :: public QMainWindow {
-
+//class MainWindow :: public QMainWindow {
+	
 class Gameobject;
 
 class Unit;
