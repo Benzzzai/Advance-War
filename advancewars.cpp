@@ -66,7 +66,6 @@ public :
 	}	
 		
 };
-
 class Batiment :: public Gameobject {
 	int type;
 public :
